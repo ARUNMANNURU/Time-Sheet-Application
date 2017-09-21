@@ -1,0 +1,16 @@
+# Eclipse
+.classpath
+.project
+.settings
+
+# IntelliJ IDEA
+*.iml
+
+# Maven
+target
+
+# WebStorm
+.idea
+
+# Bower
+bower_components
